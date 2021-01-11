@@ -1,2 +1,2 @@
 # hello-world
-Hello0-world repository for CS50
+Hello-world repository for CS50
